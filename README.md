@@ -1,4 +1,4 @@
-# Fraud-detection on Python
+## Fraud-detection on Python
 Determining the best ML model for Fraud detection on credit card transactions using Python
 
 # Data
@@ -21,7 +21,7 @@ Logistic Regression & Random Forest classifier
 12. Comparing results
 
 # Understanding the data
-**Number of variables**
+
 1. There are a total of 31 columns, 28 of them features (v1 to v28), Time elapsed (sec), Amount and Class.
 2. Class (target variable) is 0 or 1, for non-fraudulent and fraudulent transaction. 492 fraudulent and 284315 non-fraudulent activities.
 
