@@ -1,13 +1,13 @@
-## Fraud-detection on Python
+# Fraud-detection on Python
 Determining the best ML model for Fraud detection on credit card transactions using Python
 
-# Data
+## Data
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. 284,807 transactions and 28 features after perfoming PCA [From here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
-# ML models used:
+## ML models used:
 Logistic Regression & Random Forest classifier
 
-# Steps taken in Python
+## Steps taken in Python
 1. Import all necessary libraries (matplotlib, seaborn, pandas, numpy, Scikit-learn (Sklearn - model selection, linear model, preprocessing, metrics), imblearn, collections.
 2. Understand the data available with visualisation
 3. Split the data in train & test sample.
@@ -20,7 +20,7 @@ Logistic Regression & Random Forest classifier
 11. Evaluate RF model again
 12. Comparing results
 
-# Understanding the data
+## Understanding the data
 
 1. There are a total of 31 columns, 28 of them features (v1 to v28), Time elapsed (sec), Amount and Class.
 2. Class (target variable) is 0 or 1, for non-fraudulent and fraudulent transaction. 492 fraudulent and 284315 non-fraudulent activities.
@@ -41,24 +41,26 @@ Logistic Regression & Random Forest classifier
 
     ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/3f84f3d4-5d45-4dce-8edf-3c3af1403f20)
 
-# Evaluation of Logistic regression model
+## Evaluation of Logistic regression model
 *Accuracy: 0.9992225276378884*
 
 ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/a709603b-6ab5-49c2-b240-aa8aaaef6534)
 
-# Data after Downsampling
+## Data after Downsampling
 
 ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/23157d51-2525-42ce-b361-8f76a8dc4e02)
 
-# Evaluation of Random forest classifier model
+## Evaluation of Random forest classifier model
 
 ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/635f8df3-a6f3-40ae-a90f-5b4c0685ef22)
 
-# Evaluation of Random forest classifier model after hyperparamater tuning
+## Evaluation of Random forest classifier model after hyperparamater tuning
 
 ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/9eb090f2-00b8-4cc3-b091-f62aa4c1fab6)
 
-# Comparing results
+## Comparing results
+
+## Conclusion
 
 
 
