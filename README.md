@@ -5,7 +5,9 @@ Determining the best ML model for Fraud detection on credit card transactions us
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. 284,807 transactions and 28 features after perfoming PCA [From here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ## ML models used:
-Logistic Regression & Random Forest classifier
+Logistic Regression
+
+Random Forest classifier
 
 ## Steps taken in Python
 1. Import all necessary libraries (matplotlib, seaborn, pandas, numpy, Scikit-learn (Sklearn - model selection, linear model, preprocessing, metrics), imblearn, collections.
