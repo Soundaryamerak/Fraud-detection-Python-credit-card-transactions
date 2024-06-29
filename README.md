@@ -73,11 +73,4 @@ The Random Forest Classifier models, especially the tuned version, are better in
 
 ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/9eb090f2-00b8-4cc3-b091-f62aa4c1fab6)
 
-## Comparing results
-
-## Conclusion
-
-
-
-
 
