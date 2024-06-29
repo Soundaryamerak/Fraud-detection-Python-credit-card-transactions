@@ -9,6 +9,19 @@ Logistic Regression
 
 Random Forest classifier
 
+## Performace Comparison
+
+![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/6cb959e9-296b-4e21-a41e-2d4ffd21d3fc)
+
+## Analysis
+
+**Accuracy:** All models have very high accuracy, with the random forest classifiers slightly outperforming logistic regression.
+**Precision and Recall (Class 1):** The random forest classifiers show significantly higher precision and recall for the minority class (Class 1), indicating better performance in detecting fraud.
+**F1-Score (Class 1):** The F1-scores for the random forest classifiers are also higher, suggesting a better balance between precision and recall compared to logistic regression.
+
+## Conclusion
+The Random Forest Classifier models, especially the tuned version, are better in terms of detecting the minority class (fraud cases) as they have higher precision, recall, and F1-scores for Class 1 compared to the Logistic Regression model.
+
 ## Steps taken in Python
 1. Import all necessary libraries (matplotlib, seaborn, pandas, numpy, Scikit-learn (Sklearn - model selection, linear model, preprocessing, metrics), imblearn, collections.
 2. Understand the data available with visualisation
