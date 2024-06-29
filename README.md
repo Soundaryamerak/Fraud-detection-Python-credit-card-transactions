@@ -56,21 +56,3 @@ The Random Forest Classifier models, especially the tuned version, are better in
 
     ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/3f84f3d4-5d45-4dce-8edf-3c3af1403f20)
 
-## Performace of Logistic regression model
-*Accuracy: 0.9992225276378884*
-
-![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/a709603b-6ab5-49c2-b240-aa8aaaef6534)
-
-## Data after Downsampling
-
-![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/23157d51-2525-42ce-b361-8f76a8dc4e02)
-
-## Performance of Random forest classifier model
-
-![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/635f8df3-a6f3-40ae-a90f-5b4c0685ef22)
-
-## Performance of Random forest classifier model after hyperparamater tuning
-
-![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/9eb090f2-00b8-4cc3-b091-f62aa4c1fab6)
-
-
