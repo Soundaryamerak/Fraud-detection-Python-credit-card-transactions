@@ -6,11 +6,11 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 ## ML models used: 
 
-**[Python File](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/blob/main/Fraud%20Detection.ipynb)**
-
 Logistic Regression
 
 Random Forest classifier
+
+**[Python File](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/blob/main/Fraud%20Detection.ipynb)**
 
 ## Understanding the data
 
