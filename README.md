@@ -16,7 +16,9 @@ Random Forest classifier
 ## Analysis
 
 **Accuracy:** All models have very high accuracy, with the random forest classifiers slightly outperforming logistic regression.
+
 **Precision and Recall (Class 1):** The random forest classifiers show significantly higher precision and recall for the minority class (Class 1), indicating better performance in detecting fraud.
+
 **F1-Score (Class 1):** The F1-scores for the random forest classifiers are also higher, suggesting a better balance between precision and recall compared to logistic regression.
 
 ## Conclusion
