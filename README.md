@@ -9,7 +9,7 @@ Logistic Regression
 
 Random Forest classifier
 
-## Performace Comparison
+## Performance Comparison
 
 ![image](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/assets/170541567/6cb959e9-296b-4e21-a41e-2d4ffd21d3fc)
 
